@@ -1,7 +1,5 @@
 # MCC – Mi Clínica Control 🏥👨‍⚕️👩‍⚕️
 
-**Autora:** Irene Condado Alcantarilla.
-
 **Mi Clínica Control (MCC)** es una aplicación web diseñada para resolver los problemas de comunicación y comprensión entre pacientes y profesionales de la salud en el marco de la consulta médica.
 
 En el día a día, los pacientes acumulan una gran cantidad de documentos en papel, anotaciones sobre la evolución de su enfermedad o dudas que surgen entre citas. Al llegar a la consulta, el tiempo disponible suele ser muy limitado para exponer toda esta información. **MCC** optimiza este proceso digitalizándolo: permite centralizar, organizar y acceder a los datos clínicos en cualquier lugar y momento de forma clara y legible.
@@ -52,5 +50,9 @@ Sigue estos pasos para poner en marcha el proyecto localmente:
 ```bash
 git clone [https://github.com/black-cat-17/MCC.git](https://github.com/black-cat-17/MCC.git)
 cd MCC```
+
+---
+
+**Autora:** Irene Condado Alcantarilla.
 
 ---
