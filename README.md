@@ -1,12 +1,11 @@
 # MCC – Mi Clínica Control 🏥👨‍⚕️👩‍⚕️
+**BK Programación** | Proyecto desarrollado por: **Irene Condado Alcantarilla**
 
 **Mi Clínica Control (MCC)** es una aplicación web diseñada para resolver los problemas de comunicación y comprensión entre pacientes y profesionales de la salud en el marco de la consulta médica.
 
 En el día a día, los pacientes acumulan una gran cantidad de documentos en papel, anotaciones sobre la evolución de su enfermedad o dudas que surgen entre citas. Al llegar a la consulta, el tiempo disponible suele ser muy limitado para exponer toda esta información. **MCC** optimiza este proceso digitalizándolo: permite centralizar, organizar y acceder a los datos clínicos en cualquier lugar y momento de forma clara y legible.
 
 Para los médicos y clínicas, la plataforma elimina la necesidad de almacenar expedientes físicos ocupando espacio, reduciendo drásticamente el riesgo de pérdida o deterioro de la información y permitiendo un seguimiento del paciente mucho más completo, eficiente y seguro.
-
-**Autora:** Irene Condado Alcantarilla.
 
 ---
 
