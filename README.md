@@ -54,5 +54,3 @@ cd MCC```
 ---
 
 **Autora:** Irene Condado Alcantarilla.
-
----
