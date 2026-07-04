@@ -52,4 +52,3 @@ Sigue estos pasos para poner en marcha el proyecto localmente:
 git clone [https://github.com/black-cat-17/MCC.git](https://github.com/black-cat-17/MCC.git)
 cd MCC```
 
----
