@@ -6,6 +6,8 @@ En el día a día, los pacientes acumulan una gran cantidad de documentos en pap
 
 Para los médicos y clínicas, la plataforma elimina la necesidad de almacenar expedientes físicos ocupando espacio, reduciendo drásticamente el riesgo de pérdida o deterioro de la información y permitiendo un seguimiento del paciente mucho más completo, eficiente y seguro.
 
+**Autora:** Irene Condado Alcantarilla.
+
 ---
 
 ## 🚀 Tecnologías Utilizadas
@@ -52,5 +54,3 @@ git clone [https://github.com/black-cat-17/MCC.git](https://github.com/black-cat
 cd MCC```
 
 ---
-
-**Autora:** Irene Condado Alcantarilla.
